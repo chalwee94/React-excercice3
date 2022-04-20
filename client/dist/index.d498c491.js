@@ -1002,7 +1002,7 @@ function FrontPage() {
     return /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
         children: [
             /*#__PURE__*/ _jsxDevRuntime.jsxDEV("h1", {
-                children: "Kristiania Movie Database"
+                children: "React Database-Movie"
             }, void 0, false, {
                 fileName: "index.jsx",
                 lineNumber: 9,
