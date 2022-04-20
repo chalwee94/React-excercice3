@@ -2,6 +2,11 @@
   "name": "react-excercice3",
   "version": "1.0.0",
   "description": "",
+  "engines": {
+    "node": "v16.x"
+
+  },
+  "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
