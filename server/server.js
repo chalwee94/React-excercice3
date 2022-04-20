@@ -7,13 +7,13 @@ app.use(bodyParser.json());
 
 const movies = [
     {
-        title: "The Matrix",
-        plot: "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
-        year: 1999
+        title: "ma famille",
+        plot: " ma famille est un film qui ete Créée en juin 20021 par Akissi Delta, la série fut produite par Lad Production, et est diffusée sur La Première, Africable, la télévision Gabonaise, RTGA.",
+        year: 2002
     },
     {
-        title: "The Color Purple",
-        plot: "A black Southern woman (Whoopi Goldberg) struggles to find her identity after suffering years of abuse from her father and others over 40 years.",
+        title: "when they see us",
+        plot: "Fem tenåringer fra Harlem blir fanget i et mareritt når de feilaktig anklages for et brutalt angrep i Central Park. Basert på en sann historie. ",
         year: 1985
     }
 ]

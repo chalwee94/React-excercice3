@@ -1,12 +1,11 @@
 import * as React from "react";
 import * as ReactDOM from "react-dom";
-
 import {BrowserRouter, Routes, Route, Link, useNavigate} from "react-router-dom";
 import {useState, useEffect} from "react";
 
 function FrontPage() {
     return <div>
-        <h1>Kristiania Movie Database</h1>
+        <h1>React Database-Movie</h1>
         <ul>
             <li><Link to={"/movies"}>List Movies</Link></li>
             <li><Link to={"/movies/new"}>Add Movie</Link></li>
