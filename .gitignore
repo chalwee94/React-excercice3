@@ -1,5 +1,8 @@
-/node_modules/
-/client/.parcel-cache/
-/client/dist/
-/.idea/
+node_modules/
+.parcel-cache/
+dist/
+.idea/
 *.iml
+
+
+
